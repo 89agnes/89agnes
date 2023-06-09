@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @89agnes
-- 👀 I’m interested in design and animation
-- 🌱 I’m currently learning css
+- 👀 I’m interested in design, coding, animation
+- 🌱 I’m currently learning IT
 - 💞️ I’m looking for teacher
 - 📫 let me know on agnesagnesvir@gmail.com
 
